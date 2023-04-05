@@ -1,21 +1,21 @@
 {
     "basic_info_list": [
-        "Prem",
-        "Nagdeo",
-        "Third Year Engineering Student at Thadomal Shahani Engineering College, Mumbai",
-        "https://www.linkedin.com/in/premnagdeo/"
+        "Soumyo Nath",
+        "Tripathy",
+        "SWE intern@Trailytics| ex-Machine Learning intern@IIT Kharagpur| ex-DS intern@LGM, The Sparks Foundation| OpenSource Mentor@OpenCode|ex-DSA intern@TwoWaits|GSSoC'22|ex-intern@Delloite",
+        "https://www.linkedin.com/in/soumyo2001/"
     ],
-    "education_info_list": [
+    "Education": [
         [
-            "Thadomal Shahani Engineering College, Mumbai",
-            "Bachelor of Engineering",
-            "Information Technology",
-            "2021",
-            "9.01"
+            "Institute of Engineering and Management,Kolkata",
+            "Bachelor of Technology - BTech",
+            "Artificial Intelligence and Machine Learning",
+            "2020-2024",
+            "9.72"
         ],
         [
-            "RD and SH National College, Mumbai",
-            "High School",
+            "Mansur Habibullah Memorial School",
+            "ISC & ICSE",
             "Science",
             "2017",
             "78.15%"
@@ -24,70 +24,113 @@
             "Lilavatibai Podar High School, Mumbai",
             "ICSE",
             "",
-            "2015",
-            "90.17%"
+            "2003-2020",
+            "93.17%"
         ]
     ],
-    "projects_info_list": [
+    "Projects": [
         [
-            "ACCELEROMETER BASED ROBOT",
-            "Aug 2019 \u2013 Nov 2019",
-            "Designed & Created a robot car that can be controlled by using the accelerometer sensor of a smartphone."
+            "
+VAE Siamese fusion of Satellite imagery",
+            "Mar 2022 - Present",
+            "Associated with Indian Institute of Technology, Kharagpur"
         ],
         [
-            "HOLIDAY HOMES RENTAL WEBSITE",
-            "Aug 2019 \u2013 Nov 2019",
-            "Conceptualized & Created a website that offers user options select a holiday home based on their needs."
+            "
+Smart Traffic Management System",
+            "Jan 2023 - Feb 2023",
+            "This Adaptive Traffic Signal Timer reduces traffic congestion on highways, provides faster travel for people, and consumes less fuel by utilising live pictures from the cameras at traffic intersections to calculate traffic density using YOLO object identification and setting the signal timers appropriately"
         ]
     ],
-    "certifications_info_list": [
+    "Licenses & certifications": [
         [
-            "Learn Ethical Hacking from Scratch",
-            "Mar 2020",
-            "zSecurity"
+            "30DaysOfCloud",
+            "Nov-2021",
+            "Google Cloud Community India"
         ],
         [
-            "Learn to Code in Python 3: Programming Beginner to Advanced",
+            "Javascript and ReactJS",
             "Mar 2020",
-            "Udemy"
+            "Google Developers"
         ],
         [
-            "Programming Foundations with JavaScript, HTML and CSS",
+            "Python and Machine Learning ",
             "Mar 2020",
-            "Coursera"
+            "Google Developers Group"
         ],
         [
-            "Python for Everybody - a 5 Course Specialization by University of Michigan",
+            "Python Basics for Data Science ",
             "Mar 2020",
-            "Coursera"
+            "edX"
         ]
     ],
-    "experience_info_list": [
+    "Experience": [
         [
-            "Win Trendz Exim Private Limited",
-            "Assistant Network Engineer",
-            "Jun 2017 \u2013 Dec 2019",
-            "Inspected and identified vulnerabilities in the Internal and External Networks.Built a Python application that streamlined the accounting process of the company and saved 20-25 manhours per week by automating the payment tracking process."
+            "Trailytics · Internship",
+            "
+Python Developer intern",
+            "Nov 2022 - Jan 2023 · 3 mos",
+            ""
+        ]
+                [
+            "Indian Institute of Technology, Kharagpur · Internship",
+            "
+Summer Research Intern",
+            "Apr 2022 - Oct 2022 · 7 mos",
+            "1)Currently I am pursuing my summer research internship under professor Rintu Kumar Gayen through SRFP 2022. My topic of research is Variational AutoEncoder Siamese Network for fusion on Satellite Imagery. 
+2)My project idea was to have two satellite images (i.e- C_image & L_image) and to produce Fusion of them using Variational AutoEncoder and Siamese Network.
+First train the VAE using several similar images, and produce the decoded image after encoding process of individual C_image and L_Image and store the result as VAE_c ,VAE_l. Then pass the images through VGG16/VGG19 and get the desired result like VGG_c and VGG_l. 
+Next we concatenate both the result like:
+VGG_VAE_c= VGG_c+VAE_C (USING PYTORCH)
+VGG_VAE_l= VGG_l+VAE_l(USING PYTORCH)
+Then put both these images into Siamese_concet code and get the desired result. 
+3) Also researching on publishing the Research paper and journal on the same. Thankyou to our project lead- Mr. Tamesh Halder, PhD Research Scholar of IIT KGP for assisting me in everything ."
         ]
     ],
-    "skills_info_list": [
+    "Skills": [
         "Python",
         "Java",
-        "HTML5",
-        "Data Structures",
-        "Web Development",
-        "Engineering",
-        "Information Technology",
+        "SQL",
+        "Data Science",
+        "Machine Learning",
+        "Flask",
+        "MongoDB",
         "Cascading Style Sheets (CSS)",
         "Microsoft Office",
-        "SQL",
-        "C++",
+        "Pandas",
+        "Keras",
         "Microsoft Excel",
         "Microsoft Word",
         "Microsoft PowerPoint",
         "Python (Programming Language)",
         "HTML"
     ],
-    "volunteer_info_list": [],
-    "accomplishments_info_list": []
+    "Volunteering": [
+            [
+            "SERB INAE HACKATHON 2022",
+            "
+Jadavpur University",
+            "Aug 2022 - Sep 2022 · 2 mos",
+            "Developed NLP model for Abstractive Text Summarization.
+From ovrnight working , gaining knowledge to sharing food and having fun it was a wonderful experience.
+
+certification- https://www.linkedin.com/posts/soumyo2001_ai-ml-experience-activity-6973375337262952448-ZrYz?utm_source=share&utm_medium=member_android "
+        ]
+          [
+            "HackOdisha 2.0",
+            "
+NIT -Rourklea",
+            "May 2022 · 1 mo",
+            "certificate- https://certificate.givemycertificate.com/c/9f07a639-9bd5-456a-b378-6570e3ad12ae"
+        ]
+    ],
+    "Honors & awards": [
+    [
+            "
+Github Student Developer Pack",
+            "Github",
+            "Issued by Github · Dec 2021",
+            "certificate- https://certificate.givemycertificate.com/c/9f07a639-9bd5-456a-b378-6570e3ad12ae"
+        ]
+    ]
 }
