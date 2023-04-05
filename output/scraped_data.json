@@ -30,14 +30,12 @@
     ],
     "Projects": [
         [
-            "
-VAE Siamese fusion of Satellite imagery",
+            "VAE Siamese fusion of Satellite imagery",
             "Mar 2022 - Present",
             "Associated with Indian Institute of Technology, Kharagpur"
         ],
         [
-            "
-Smart Traffic Management System",
+            "Smart Traffic Management System",
             "Jan 2023 - Feb 2023",
             "This Adaptive Traffic Signal Timer reduces traffic congestion on highways, provides faster travel for people, and consumes less fuel by utilising live pictures from the cameras at traffic intersections to calculate traffic density using YOLO object identification and setting the signal timers appropriately"
         ]
@@ -67,24 +65,15 @@ Smart Traffic Management System",
     "Experience": [
         [
             "Trailytics · Internship",
-            "
-Python Developer intern",
+            "Python Developer intern",
             "Nov 2022 - Jan 2023 · 3 mos",
             ""
         ]
                 [
             "Indian Institute of Technology, Kharagpur · Internship",
-            "
-Summer Research Intern",
+            "Summer Research Intern",
             "Apr 2022 - Oct 2022 · 7 mos",
-            "1)Currently I am pursuing my summer research internship under professor Rintu Kumar Gayen through SRFP 2022. My topic of research is Variational AutoEncoder Siamese Network for fusion on Satellite Imagery. 
-2)My project idea was to have two satellite images (i.e- C_image & L_image) and to produce Fusion of them using Variational AutoEncoder and Siamese Network.
-First train the VAE using several similar images, and produce the decoded image after encoding process of individual C_image and L_Image and store the result as VAE_c ,VAE_l. Then pass the images through VGG16/VGG19 and get the desired result like VGG_c and VGG_l. 
-Next we concatenate both the result like:
-VGG_VAE_c= VGG_c+VAE_C (USING PYTORCH)
-VGG_VAE_l= VGG_l+VAE_l(USING PYTORCH)
-Then put both these images into Siamese_concet code and get the desired result. 
-3) Also researching on publishing the Research paper and journal on the same. Thankyou to our project lead- Mr. Tamesh Halder, PhD Research Scholar of IIT KGP for assisting me in everything ."
+            "1)Currently I am pursuing my summer research internship under professor Rintu Kumar Gayen through SRFP 2022. My topic of research is Variational AutoEncoder Siamese Network for fusion on Satellite Imagery. 2)My project idea was to have two satellite images (i.e- C_image & L_image) and to produce Fusion of them using Variational AutoEncoder and Siamese Network.First train the VAE using several similar images, and produce the decoded image after encoding process of individual C_image and L_Image and store the result as VAE_c ,VAE_l. Then pass the images through VGG16/VGG19 and get the desired result like VGG_c and VGG_l. Next we concatenate both the result like:VGG_VAE_c= VGG_c+VAE_C (USING PYTORCH)VGG_VAE_l= VGG_l+VAE_l(USING PYTORCH)Then put both these images into Siamese_concet code and get the desired result. 3) Also researching on publishing the Research paper and journal on the same. Thankyou to our project lead- Mr. Tamesh Halder, PhD Research Scholar of IIT KGP for assisting me in everything ."
         ]
     ],
     "Skills": [
@@ -108,26 +97,20 @@ Then put both these images into Siamese_concet code and get the desired result.
     "Volunteering": [
             [
             "SERB INAE HACKATHON 2022",
-            "
-Jadavpur University",
+            "Jadavpur University",
             "Aug 2022 - Sep 2022 · 2 mos",
-            "Developed NLP model for Abstractive Text Summarization.
-From ovrnight working , gaining knowledge to sharing food and having fun it was a wonderful experience.
-
-certification- https://www.linkedin.com/posts/soumyo2001_ai-ml-experience-activity-6973375337262952448-ZrYz?utm_source=share&utm_medium=member_android "
+            "Developed NLP model for Abstractive Text Summarization.From ovrnight working , gaining knowledge to sharing food and having fun it was a wonderful experience.certification- https://www.linkedin.com/posts/soumyo2001_ai-ml-experience-activity-6973375337262952448-ZrYz?utm_source=share&utm_medium=member_android "
         ]
           [
             "HackOdisha 2.0",
-            "
-NIT -Rourklea",
+            "NIT -Rourklea",
             "May 2022 · 1 mo",
             "certificate- https://certificate.givemycertificate.com/c/9f07a639-9bd5-456a-b378-6570e3ad12ae"
         ]
     ],
     "Honors & awards": [
     [
-            "
-Github Student Developer Pack",
+            "Github Student Developer Pack",
             "Github",
             "Issued by Github · Dec 2021",
             "certificate- https://certificate.givemycertificate.com/c/9f07a639-9bd5-456a-b378-6570e3ad12ae"
